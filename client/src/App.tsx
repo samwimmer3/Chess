@@ -5,7 +5,7 @@ import Game from './components/Game'
 function App() {
 
   return (
-    <div className= "bg-zinc-700 text-white min-h-screen">
+    <div className= " game bg-zinc-700 text-white min-h-screen">
       <Game />
     </div>
   )
